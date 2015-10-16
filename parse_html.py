@@ -17,6 +17,7 @@ with codecs.open("kasutajad.html", "r",encoding='utf8') as input,open("data.csv"
             email = ""
             lis.append(email)
         writer.writerow(lis)
+        print (lis)
 
 
         #lis.append(i.get_text())
