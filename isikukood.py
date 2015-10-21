@@ -1,4 +1,5 @@
 import re
+#versioon2
 while True:
     try:
         isikukood = int(input("Sisesta isikukood: "))

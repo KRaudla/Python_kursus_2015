@@ -1,5 +1,7 @@
   # -*- coding: utf-8 -*-
+#versioon 2
 number = int(input('Sisesta täisarv '))
+
 if number >= 0:
     summa = 0
     while number > 0:
